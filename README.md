@@ -233,6 +233,5 @@ This first investigation taught me to:
 - Trace a simple network event from **client action to packet capture to server log**.
 - Interpret authentication logs using **account, source IP, ephemeral port, timestamp, and result**.
 - Recognize that tools such as Nmap can leave evidence in **application logs**, not only in packet captures.
-- State **what each evidence source proves, and what it cannot prove**, instead of drawing a security conclusion from a single screenshot.
 
 The next portfolio project, **[Home Security Lab 02 — Windows Security Investigation](https://github.com/yngxlr8/Home-Security-Lab-02)**, extends this approach to Windows authentication events, PowerShell execution, scheduled tasks, and firewall evidence.
